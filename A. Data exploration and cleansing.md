@@ -7,12 +7,12 @@
 
 <!-- TOC -->
   * [👩🏼‍💻 PYTHON - PYCHARM](#-python---pycharm)
-   * [🔤 IMPORT LIBRARY AND DATASET](#-import-library-and-dataset)
-   * [🔎 EXPLORE, CLEAN & TRANSFORM DATA](#-explore-clean--transform-data)
-     * [:one: daily_activity dataset](#-one--daily_activity-dataset)
-     * [:two: daily_sleep dataset](#-two--daily_sleep-dataset)
-     * [:three: hourly_calories dataset](#-three--hourly_calories-dataset)
-     * [:four: hourly_intensities dataset](#-four--hourly_intensities-dataset)
+    * [🔤 IMPORT LIBRARY AND DATASET](#-import-library-and-dataset)
+    * [🔎 EXPLORE, CLEAN & TRANSFORM DATA](#-explore-clean--transform-data)
+      * [:one: daily_activity dataset](#-one--daily_activity-dataset)
+      * [:two: daily_sleep dataset](#-two--daily_sleep-dataset)
+      * [:three: hourly_calories dataset](#-three--hourly_calories-dataset)
+      * [:four: hourly_intensities dataset](#-four--hourly_intensities-dataset)
   * [📊 POWER BI](#-power-bi)
     * [1. Transform Data](#1-transform-data)
     * [2. New Column](#2-new-column)
