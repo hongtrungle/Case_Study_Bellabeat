@@ -1,7 +1,7 @@
 # 🛒 Case Study - Bellabeat Fitbit 
 # A. Data Exploration and Cleansing
 
-<p align="right"> Using Python - Pycharm vs Power BI </p>
+<p align="right"> Using Python - Pycharm and Power BI </p>
 
 ## :books: Table of Contents <!-- omit in toc -->
 
